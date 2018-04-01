@@ -2,14 +2,32 @@ name: "Creamy cauliflower cheese with walnuts"
 url: "creamy-cauliflower-cheese"
 source: "https://docs.google.com/document/d/1A0bgFOwirLW2mct8KNrxYdk4OEsGZtY23mFdgOljHFA"
 ingredients: [
-  "1 Cauliflower, cut into 1cm pieces"
-  "300 Creme Fraiche (or Cream Cheese)"
-  "1 tsp Dijon Mustard"
-  "125g Blue Cheese, crumbled"
-  "25g Walnuts, roughly chopped"
-  "50g Cheddar Cheese, grated"
-  "Salt"
-  "Black pepper"
+  name: "Cauliflower"
+  quantity: "1"
+  prep: "cut into 1cm pieces"
+,
+  name: "Creme Fraiche"
+  quantity: "300g"
+  notes: "or Cream Cheese"
+,
+  name: "Dijon Mustard"
+  quantity: "1 tsp"
+,
+  name: "Blue Cheese"
+  quantity: "125g"
+  prep: "crumbled"
+,
+  name: "Walnuts"
+  quantity: "25g"
+  prep: "roughly chopped"
+,
+  name: "Cheddar Cheese"
+  quantity: "50g"
+  prep: "grated"
+,
+  name: "Salt"
+,
+  name: "Black pepper"
 ]
 method: [
   "Steam the cauliflower until tender, drain, then place in a grill-suitable dish"

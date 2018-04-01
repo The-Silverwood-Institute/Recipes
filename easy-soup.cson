@@ -1,15 +1,30 @@
 url: "easy-soup"
 name: "Easy Soup"
 ingredients: [
-  "Knob Butter"
-  "1 Onion"
-  "1 Red Pepper"
-  "1 Apple"
-  "1 Carrot"
-  "600ml Water"
-  "Stock Cube"
-  "Mixed Herbs"
-  "Extra vegetables (Optional)"
+  name: "Butter"
+  quantity: "Knob"
+,
+  name: "Onion"
+  quantity: "1"
+,
+  name: "Red Pepper"
+  quantity: "1"
+,
+  name: "Apple"
+  quantity: "1"
+,
+  name: "Carrot"
+  quantity: "1"
+,
+  name: "Water"
+  quantity: "600ml"
+,
+  name: "Stock Cube"
+,
+  name: "Mixed Herbs"
+,
+  name: "Extra vegetables"
+  notes: "Optional"
 ]
 method: [
   "Chop up everything and place everything but the onions in a bowl."

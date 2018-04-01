@@ -6,15 +6,32 @@ You can substitute Shiitake or Porchini mushrooms for their dried equivalents.
 Pots of dried forest mushrooms also work. Try softening the mushrooms in the stock.
 '''
 ingredients: [
-  "50g Butter"
-  "1 Large Onion, sliced"
-  "250g Brown Mushrooms, sliced"
-  "Some Shiitake or Porchini Mushrooms"
-  "1 Vegetable or Mushroom stock cube"
-  "350ml Soured Cream"
-  "3 tablespoons Plain Flour"
-  "Salt"
-  "Black Pepper"
+  name: "Butter"
+  quantity: "50g"
+,
+  name: "Large Onion"
+  quantity: "1"
+  prep: "sliced"
+,
+  name: "Brown Mushrooms"
+  quantity: "250g"
+  prep: "sliced"
+,
+  name: "Shiitake or Porchini Mushrooms"
+  quantity: "Some"
+,
+  name: "Vegetable or Mushroom stock cube"
+  quantity: "1"
+,
+  name: "Soured Cream"
+  quantity: "350ml"
+,
+  name: "Plain Flour"
+  quantity: "3 tbsp"
+,
+  name: "Salt"
+,
+  name: "Black Pepper"
 ]
 method: [
   "Chop the shiitake or porchini mushrooms into large pieces"

@@ -1,14 +1,31 @@
 name: "Blue Cheese Gnocchi"
 url: "blue-cheese-gnocchi"
 ingredients: [
-  "500g Gnocchi"
-  "~70g Parmesan, grated"
-  "150ml Creme Fraiche"
-  "200g Spinach"
-  "200g Stilton, diced/crumbled"
-  "(Optional) Pimento Stuffed olives"
-  "(Optional) Cherry Tomatoes"
-  "(Optional) Fresh bread"
+  name: "Gnocchi"
+  quantity: "500g"
+,
+  name: "Parmesan"
+  quantity: "~70g"
+  prep: "grated"
+,
+  name: "Creme Fraiche"
+  quantity: "150ml"
+,
+  name: "Spinach"
+  quantity: "200g"
+,
+  name: "Stilton"
+  quantity: "200g"
+  prep: "diced/crumbled"
+,
+  name: "Pimento Stuffed olives"
+  notes: "Optional"
+,
+  name: "Cherry Tomatoes"
+  notes: "Optional"
+,
+  name: "Fresh bread"
+  notes: "Optional"
 ]
 method: [
   "Tear up the spinach into a colander"

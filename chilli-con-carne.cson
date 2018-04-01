@@ -2,24 +2,48 @@ name: "Chilli con Carne"
 url: "chilli-con-carne"
 source: "Kit's Dad"
 ingredients: [
-  "Oil"
-  "Salt"
-  "Pepper"
-  "1 tsp Chilli Powder"
-  "1 tsp Crushed/whole dried chillies"
-  "Paprika"
-  "Tomato Puree"
-  "Tinned tomatoes"
-  "Italian Herbs"
-  "Brown Sauce"
-  "Beef stock cube/Bovril"
-  "Rice"
-  "Olive Oil"
-  "1 Onion"
-  "1 Garlic Clove"
-  "Tin of Kidney Beans"
-  "1 tbsp Honey (optional)"
-  "500g Mince"
+  name: "Oil"
+,
+  name: "Salt"
+,
+  name: "Pepper"
+,
+  name: "Chilli Powder"
+  quantity: "1 tsp"
+,
+  name: "Crushed or whole dried chillies"
+  quantity: "1 tsp"
+,
+  name: "Paprika"
+,
+  name: "Tomato Puree"
+,
+  name: "Tinned tomatoes"
+,
+  name: "Italian Herbs"
+,
+  name: "Brown Sauce"
+,
+  name: "Beef stock cube or Bovril"
+,
+  name: "Rice"
+,
+  name: "Olive Oil"
+,
+  name: "Onion",
+  quantity: "1"
+,
+  name: "Garlic Clove"
+  quantity: "1"
+,
+  name: "Tinned Kidney Beans"
+,
+  name: "Honey"
+  quantity: "1 tbsp"
+  notes: "Optional"
+,
+  name: "Mince"
+  quantity: "500g"
 ]
 method: [
   "Slice onions, crush garlic then brown in 2 tsp olive oil."
