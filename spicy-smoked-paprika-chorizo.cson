@@ -1,0 +1,84 @@
+name: "Spicy Smoked Paprika Chorizo"
+url: "spicy-smoked-paprika-chorizo"
+source: "Kit"
+notes: '''
+If your chorio is very spicy you might not need any chilli flakes. Similarly if you use chilli oil.
+This dish tastes best if you leave it to cool then reheat it.
+You could try serving this dish over grilled aubergines.
+'''
+ingredients: [
+  name: "Spanish Chorizo"
+  quantity: "225g"
+  notes: "ideally good quality"
+,
+  name: "Red Onions"
+  quantity: "4"
+  prep: "finely diced"
+,
+  name: "Garlic Cloves"
+  quantity: "Several"
+  prep: "fined diced or crushed in a press"
+,
+  name: "Pointed Red Pepper"
+  quantity: "1"
+  prep: "sliced"
+,
+  name: "Carrots"
+  quantity: "2-3"
+  prep: "diced"
+,
+  name: "Fresh Spinach"
+  quantity: "100g"
+  prep: "torn"
+  notes: "frozen would also work"
+,
+  name: "Tinned Tomatoes"
+  quantity: "3"
+,
+  name: "Tomato Paste"
+  quantity: "4 Inches"
+,
+  name: "Red Wine"
+  quantity: "10-20CL"
+  notes: "something in the £5-10 range"
+,
+  name: "Smoked Paprika"
+  quantity: "Several teaspoons"
+,
+  name: "Olive Oil"
+,
+  name: "Chilli Flakes"
+,
+  name: "Honey"
+  quantity: "2 tsp"
+  notes: "anything but that Rowse shit"
+,
+  name: "Dried Oregano"
+  quantity: "1 tbsp"
+,
+  name: "Stick of Cinnamon"
+  quantity: "1"
+  notes: "Ground also works"
+,
+  name: "Pitted Black Olives"
+  quantity: "6 tbsp"
+  prep: "halved"
+,
+  name: "Whole Cloves"
+  quantity: "2-3"
+  notes: "Optional"
+,
+  name: "Mascarpone"
+  quantity: "2 tbsp"
+  notes: "Optional"
+]
+method: [
+  "Cut the chorizo into half centimeter thick semi-circles."
+  "Add the oil and smoked paprika to a wide pan."
+  "Cook the carrots on a medium to high heat for a minute or so. Stir regularly to avoid sticking."
+  "Add the red onions and garlic then, a minute later, stir in the chorizo and cook for several minutes."
+  "Add the pasata, tinned tomatoes, cloves, chilli flakes, red wine, oregano, cinamon stick, and honey. If the pan is looking full then wait until the mixure has reduced before adding the rest of the tinned tomatoes/wine."
+  "Wait until bubbling then turn down the heat and simmer for at least 20 minutes."
+  "Stir in spinach and mascarpone"
+  "Serve with pasta"
+]
