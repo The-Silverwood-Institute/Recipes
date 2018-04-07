@@ -1,0 +1,92 @@
+name: "Chunky Vegetable Crumble"
+url: "vegetable-crumble"
+source: "Vegetarian Cookery Bible (2012: Reader's Digest)"
+notes: '''
+Most brands of Worcestershire Sauce contain anchovies and are therefore not vegetarian. There are some that are, however.
+Honey can be added with the carrots for extra sweetness.
+'''
+ingredients: [
+    name: "Onion"
+    quantity: "1"
+    prep: "sliced"
+,
+    name: "Garlic"
+    quantity: "3 minimum"
+    prep: "Finely chopped or crushed"
+,
+    name: "Carrots"
+    quantity: "3"
+    prep: "Cut into 2cm chunks"
+,
+    name: "Parsnips"
+    quantity: "2"
+    prep: "Cut into 2cm chunks"
+,
+    name: "Baby turnips"
+    quantity: "350g"
+    prep: "Quartered"
+    notes: "Optional. Never been added"
+,
+    name: "New potatoes"
+    quantity: "5-6"
+    prep: "Cut into 2cm chunks"
+    notes: "Whatever number seems reasonable for the pan size"
+,
+    name: "Vegetable stock"
+    quantity: "450ml"
+    notes: "Use less for a thicker dish (preferred)"
+,
+    name: "Worcestershire sauce"
+    quantity: "generous dash"
+,
+    name: "Tomato puree"
+    quantity: "1 tbsp"
+,
+    name: "Bay leaves"
+    quantity: "2"
+    notes: "Optional. Never been added"
+,
+    name: "Butter beans"
+    quantity: "1 410g tin"
+    prep: "Drained and rinsed"
+,
+    name: "Parsley"
+    quantity: "3 tbsp"
+    prep: "Chopped"
+    notes: "Optional. Never been added"
+,
+    name: "Salt"
+,
+    name: "Pepper"
+,
+    name: "Flour"
+    quantity: "85g"
+,
+    name: "Butter"
+    quantity: "30g"
+    prep: "Diced"
+    notes: "Should be cool, not room temp."
+,
+    name: "Mature cheddar cheese"
+    quantity: "75g"
+    prep: "Coarsely grated"
+    notes: "Always use more"
+,
+    name: "Sunflower seeds"
+    quantity: "30g"
+]
+method: [
+    "Preheat oven to 190 C (375 F, gas mark 5)."
+    "Heat oil in a large saucepan. Add the onion and garlic and cook until soft."
+    "Add the carrots, parsnips, turnips (if used) and potatoes and cook briefly."
+    "Stir in the stock, Worcestershire sauce, tomato puree and bay leaves (if used)."
+    "Bring to the boil and simmer for 20 minutes, stirring occasionally."
+    "Put the flour in a mixing bowl and rub in the butter to make the crumble topping. Sprinkle over 1 1/2 tbsp water and mix with fork to make large crumbs. Stir in the cheese and sunflower seeds."
+    "Stir the butter beans into the vegetable mixture and cook for further 5-7 minutes or until vegetables are tender."
+    "Remove the bay leaves (if added)."
+    "Blend, mash or puree approx. 1 ladleful of the vegetable mixture."
+    "Stir in parsley (if used) and the salt and pepper."
+    "Pour the mixture into a suitable ovenproof dish."
+    "Sprinkle the crumble mixture evenly over the top."
+    "Bake for 20 minutes or until golden brown."
+]
