@@ -8,29 +8,28 @@ Substitute the parmesan with a ball of mozzarella, chopped.
 ingredients: [
     name: "Onion"
     quantity: "1"
-    prep: "Chopped"
+    prep: "chopped"
 ,
     name: "Garlic"
     quantity: "2-3 cloves"
-    prep: "Finely chopped or crushed"
+    prep: "finely chopped or crushed"
 ,
     name: "Red wine"
-    quantity: "A generous amount"
 ,
     name: "Chopped tomatoes"
     quantity: "2 400g tins"
 ,
     name: "Sun-dried tomatoes"
     quantity: "5"
-    prep: "In oil. Drained and chopped."
+    prep: "drained and chopped."
 ,
     name: "Aubergine"
     quantity: "1"
-    prep: "Cut into 1cm cubes"
+    prep: "cut into 1cm cubes"
 ,
     name: "Oregano"
     quantity: "2 tbsp"
-    prep: "Chopped"
+    prep: "chopped"
     notes: "Fresh or dried"
 ,
     name: "Rigatoni"

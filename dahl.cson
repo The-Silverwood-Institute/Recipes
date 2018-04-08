@@ -22,12 +22,12 @@ ingredients: [
 ,
     name: "Ginger"
     quantity: "1 cm piece"
-    prep: "Peeled and finely chopped"
+    prep: "peeled and finely chopped"
     notes: "Replace with ground ginger if necessary"
 ,
     name: "Garlic"
     quantity: "2"
-    prep: "Finely chopped"
+    prep: "finely chopped"
 ,
     name: "Garam masala"
     quantity: "1/2 tsp"
@@ -43,7 +43,7 @@ ingredients: [
 ,
     name: "Onion"
     quantity: "1"
-    prep: "Diced"
+    prep: "diced"
 ]
 method: [
     "Boil the kettle and rinse the lentils."

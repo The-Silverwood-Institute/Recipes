@@ -12,24 +12,24 @@ ingredients: [
 ,
     name: "Garlic"
     quantity: "3 minimum"
-    prep: "Finely chopped or crushed"
+    prep: "finely chopped or crushed"
 ,
     name: "Carrots"
     quantity: "3"
-    prep: "Cut into 2cm chunks"
+    prep: "cut into 2cm chunks"
 ,
     name: "Parsnips"
     quantity: "2"
-    prep: "Cut into 2cm chunks"
+    prep: "cut into 2cm chunks"
 ,
     name: "Baby turnips"
     quantity: "350g"
-    prep: "Quartered"
+    prep: "quartered"
     notes: "Optional. Never been added"
 ,
     name: "New potatoes"
     quantity: "5-6"
-    prep: "Cut into 2cm chunks"
+    prep: "cut into 2cm chunks"
     notes: "Whatever number seems reasonable for the pan size"
 ,
     name: "Vegetable stock"
@@ -48,11 +48,11 @@ ingredients: [
 ,
     name: "Butter beans"
     quantity: "1 410g tin"
-    prep: "Drained and rinsed"
+    prep: "drained and rinsed"
 ,
     name: "Parsley"
     quantity: "3 tbsp"
-    prep: "Chopped"
+    prep: "chopped"
     notes: "Optional. Never been added"
 ,
     name: "Salt"
@@ -64,12 +64,12 @@ ingredients: [
 ,
     name: "Butter"
     quantity: "30g"
-    prep: "Diced"
+    prep: "diced"
     notes: "Should be cool, not room temp."
 ,
     name: "Mature cheddar cheese"
     quantity: "75g"
-    prep: "Coarsely grated"
+    prep: "coarsely grated"
     notes: "Always use more"
 ,
     name: "Sunflower seeds"

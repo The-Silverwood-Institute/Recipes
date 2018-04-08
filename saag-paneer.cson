@@ -8,7 +8,7 @@ For frying the paneer, the goal is something like a very shallow shallow fry, wi
 ingredients: [
     name: "Paneer"
     quantity: "1 block"
-    prep: "Cut into 2-3 cm cubes"
+    prep: "cut into 2-3 cm cubes"
 ,
     name: "Ground turmeric"
     quantity: "2 tsp"
@@ -18,7 +18,7 @@ ingredients: [
 ,
     name: "Onion"
     quantity: "1"
-    prep: "Diced, but not too finely"
+    prep: "diced, but not too finely"
 ,
     name: "Ground cumin"
     quantity: "1/2 tsp"
@@ -30,16 +30,15 @@ ingredients: [
 ,
     name: "Tomatoes"
     quantity: "2"
-    prep: "Diced"
+    prep: "diced"
     notes: "Tins of chopped tomatoes are far too wet for this. Also optional."
 ,
     name: "Spinach"
     quantity: "1 large bag minimum"
-    prep: "Torn up"
+    prep: "torn up"
     notes: "Can also use frozen spinach. Either way, a lot is needed."
 ,
     name: "Peas"
-    quantity: "An amount"
     notes: "Optional"
 ]
 method: [

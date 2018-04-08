@@ -14,11 +14,11 @@ ingredients: [
 ,
     name: "Feta"
     quantity: "1 block, approx. 200g"
-    prep: "Cut into 1cm cubes"
+    prep: "cut into 1cm cubes"
 ,
     name: "Tuna chunks"
     quantity: "1 80g tin"
-    prep: "Drained"
+    prep: "drained"
     notes: "Optional"
 ,
     name: "Sweet chilli sauce"
