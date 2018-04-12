@@ -1,0 +1,46 @@
+name: "Kashtouri"
+url: "kashtouri"
+source: "Vegetarian Cookery Bible (2012: Reader's Digest)"
+description: "An Egyptian dish of rice, macaroni and lentils in a spicy tomato sauce."
+ingredients: [
+  name: "Risotto rice"
+  quantity: "150g"
+,
+  name: "Macaroni"
+  quantity: "150g"
+,
+  name: "Red lentils"
+  quantity: "150g"
+  notes: "Or 1 400g tin green lentils"
+,
+  name: "Onion"
+  quantity: "1"
+  prep: "finely chopped"
+,
+  name: "Garlic"
+  prep: "finely chopped or crushed"
+,
+  name: "Chopped tomatoes"
+  quantity: "1 400g tin"
+,
+  name: "Cayenne pepper"
+  quantity: "1-2 tsp"
+,
+  name: "Ground coriander"
+  quantity: "1 tsp"
+,
+  name: "Lemon juice"
+,
+  name: "Salt"
+,
+  name: "Black pepper"
+]
+method: [
+  "Bring water to a boil and fill a large saucepan. Add the rice and simmer for 5 minutes."
+  "Add the macaroni and lentils and simmer for 10 minutes or until rice, macaroni and lentils are tender."
+  "Drain and set aside."
+  "Meanwhile, heat some oil in a large saucepan and cook onions and garlic until softened. Stir in cayenne pepper, coriander, chopped tomatoes and lemon juice. Add salt and pepper to taste."
+  "Simmer for 5-10 minutes, stirring occasionally."
+  "Add rice, macaroni and lentils to the mixture."
+  "Serve hot."
+]
