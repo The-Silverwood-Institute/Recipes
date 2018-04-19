@@ -1,0 +1,52 @@
+name: "Lamb and Aubergine Daube"
+url: "lamb-aubergine-daube"
+source: "The Times - Dinner Tonight"
+ingredients: [
+  name: "Aubergine"
+  quantity: "350g"
+,
+  name: "Onions"
+  quantity: "2"
+,
+  name: "Olive Oil"
+,
+  name: "Cumin Seed"
+  quantity: "1/2 tsp"
+,
+  name: "Fennel Seed"
+  quantity: "1/2 tsp"
+,
+  name: "Dried Chilli Flakes"
+  quantity: "1/2 tsp"
+,
+  name: "Lamb Neck Fillet"
+  quantity: "750g"
+,
+  name: "Ginger"
+  quantity: "10g"
+  prep: "peeled and grated"
+,
+  name: "Cinamon Stick"
+,
+  name: "Chopped Tomatoes"
+  quantity: "1 400g tin"
+,
+  name: "Chicken Stock"
+  quantity: "250ml"
+,
+  name: "Salt"
+,
+  name: "Lemon"
+]
+method: [
+  "Cut the aubergine into kebab sized chunks then immerse in water diluted with 2tbsp. Leave 20 for minutes. Rinse and drain."
+  "Finely chop the onions. Pulverise the cumin, fennel, chilli flakes and ginger to make a corse paste."
+  "Cut the lamb into kebab sized pieces."
+  "Heat the oil in a large frying pan and stir fry the aubergine, tossing until beginning to soften but not completely cooked. Remove from the pan."
+  "Add a dash more oil the cook the onions for 5 minutes, stirring frequently."
+  "Stir in the cinnamon stick and spice paste."
+  "Toss for a couple of minutes then push the onions to one side of the pan and brown the lamb."
+  "Add the aubergine back along with the chopped tomatoes and stock."
+  "Bring to a gentle simmer then cover and cook for 45 minutes or until lamb is tender."
+  "Season with salt and lemon."
+]
