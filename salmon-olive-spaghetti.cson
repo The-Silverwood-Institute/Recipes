@@ -22,6 +22,9 @@ ingredients: [
 ,
   name: "Lemon juice"
 ,
+  name: "Thyme"
+  notes: "Dried or fresh"
+,
   name: "Spaghetti"
 ,
   name: "Cherry tomatoes"
@@ -34,7 +37,7 @@ method: [
   "Meanwhile, rub the salmon fillets with the olive oil, lemon juice and the chopped capers. Sprinkle with salt."
   "Place in the oven and bake for approximately 4-6 minutes per half-inch of thickness or until cooked through."
   "Drain the spaghetti and set aisde."
-  "In the same pan, heat a small amount of oil and cook the onions, leaving them softened but still crisp. Add the olives, tomatoes and lemon juice and warm."
+  "In the same pan, heat a small amount of oil and cook the onions, leaving them softened but still crisp. Add the olives, tomatoes, thyme and lemon juice and warm."
   "Add the spaghetti and toss. Keep warm."
   "Serve the salmon fillets on top of the spaghetti mixture."
 ]
