@@ -2,6 +2,7 @@ name: "Blue Cheese Gnocchi"
 url: "blue-cheese-gnocchi"
 tagline: "Fill the void with cheese"
 description: "Gnocchi with creme fraiche and spinach topped with grilled blue stilton."
+notes: "You can also use fresh tagliatelle rather than gnocchi, although you'll need a lot more creme fraiche."
 ingredients: [
   name: "Gnocchi"
   quantity: "500g"
