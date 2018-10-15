@@ -50,10 +50,9 @@ ingredients: [
     quantity: "1 410g tin"
     prep: "drained and rinsed"
 ,
-    name: "Parsley"
-    quantity: "3 tbsp"
-    prep: "chopped"
-    notes: "Optional. Never been added"
+    name: "Thyme"
+    quantity: "1-2 tsp"
+    notes: "Optional"
 ,
     name: "Salt"
 ,
