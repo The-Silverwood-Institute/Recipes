@@ -2,8 +2,7 @@ name: "Baked Rigatoni with Aubergine"
 url: "baked-rigatoni-aubergine"
 source: "Vegetarian Cookery Bible (2012: Reader's Digest)"
 notes: '''
-Traditional parmesan is not vegetarian. Substitute for a version that is.
-Substitute the parmesan with a ball of mozzarella, chopped.
+Traditional parmesan is not vegetarian
 '''
 ingredients: [
     name: "Onion"
@@ -41,6 +40,7 @@ ingredients: [
 ,
     name: "Parmesan"
     quantity: "30g"
+    notes: "Or a ball of mozzarella"
 ,
     name: "Salt"
 ,
