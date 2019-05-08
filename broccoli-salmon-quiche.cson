@@ -1,0 +1,38 @@
+name: "Broccoli & Salmon Quiche"
+url: "broccoli-salmon-quiche"
+notes: """
+Consider using the remaining broccoli stalks and stilton in a broccoli and stilton soup.
+"""
+ingredients: [
+  name: "Broccoli Florets"
+  quantity: "100g"
+  prep: "Cut to 1-3cm pieces"
+  notes: "Save the stalks for a soup"
+,
+  name: "Smoked Salmon"
+  prep: "Cut into 2cm pieces"
+  quantity: "120g"
+,
+  name: "Stilton"
+  quantity: "50g"
+,
+  name: "Shortcrust Pastry Sheet"
+  quantity: "230g"
+,
+  name: "Eggs"
+  quantity: "2"
+,
+  name: "Mascarpone Cheese"
+  quantity: "2 tbsp"
+,
+  name: "Pepper"
+]
+method: [
+  "Add the mascarpone cheese to a mixing bowl. It may need a few seconds in the microwave to warm up."
+  "Beat in the two eggs."
+  "Mix in the broccoli and salmon pieces"
+  "Lay the shortcrust pastry sheet over a 9 inch flan dish and gently push into the edges."
+  "Snip off any excess pastry escaping the dish. You can save this to bake mini sweet treats."
+  "Pour the mixture into the pastry dish, spreading it evenly."
+  "Bake in the oven at 200C/gas 6 for 20 minutes"
+]
