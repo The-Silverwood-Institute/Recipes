@@ -1,0 +1,51 @@
+name: "Paneer Jalfrezi"
+url: "paneer-jalfrezi"
+source: "Gousto"
+ingredients: [
+    name: "Onion"
+    quantity: "1"
+    prep: "sliced"
+,
+    name: "Green pepper"
+    quantity: "1"
+    prep: "sliced"
+,
+    name: "Chilli flakes"
+    quantity: "1/2 tsp"
+,
+    name: "Ginger"
+    quantity: "15g"
+    prep: "finely chopped or grated"
+,
+    name: "Paneer"
+    quantity: "1 block (225g)"
+    prep: "cut into bite-sized cubes"
+,
+    name: "Garlic"
+    quantity: "2-3 cloves"
+    prep: "finely chopped or crushed"
+,
+    name: "Tomatoes"
+    quantity: "2"
+    prep: "chopped"
+,
+    name: "Curry powder"
+    quantity: "1 tbsp"
+,
+    name: "Tomato puree"
+    quantity: "32g"
+,
+    name: "Brown sugar"
+    quantity: "2 tsp"
+,
+    name: "Stock cube"
+    quantity: "1"
+]
+method: [
+    "Fry the paneer until brown, turning to achieve an even colouring then set aside."
+    "Soften the onion in the pan with the sugar and a pich of salt until brown and starting to caramelise."
+    "Add the sliced pepper and cook for 5-8 mins."
+    "Disolve the stock cube in 300ml water."
+    "Add the garlic, tomatoes, tomato puree, ginger, chilli flakes, curry poweder, stock and paneer to the pan and stir."
+    "Cook for 5-10 mins on a medium heat until thickened."
+]
