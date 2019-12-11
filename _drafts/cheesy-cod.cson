@@ -1,0 +1,34 @@
+name: "Cheesy Cod and Spinach Gratin"
+url: "cheesy-cod"
+ingredients: [
+    name: "Cod"
+    quantity: "2 110g fillets"
+,
+    name: "Stock cube"
+    quantity: "1"
+,
+    name: "Spinach"
+    quantity: "80g"
+    prep: "torn or chopped"
+,
+    name: "Panko breadcrumbs"
+    quantity: "30g"
+,
+    name: "Cheddar"
+    quantity: "40g"
+    prep: "grated"
+,
+    name: "Soft cheese"
+    quantity: "50g"
+,
+    name: "Water"
+    quantity: "150ml"
+    prep: "boiling"
+]
+method: [
+    "Dissolve the stock cube and soft cheese in the boiling water."
+    "Place the spinach in an ovenproof dish and pour over the cheesy stock."
+    "Place the cod fillets on top of the spinach."
+    "Sprinkle the cheddar and breadcrumbs over the cod."
+    "Put in the oven for 15-20 mins or until the fish is cooked through."
+]
