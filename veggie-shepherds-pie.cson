@@ -1,0 +1,75 @@
+name: "Veggie Shepherd’s Pie"
+url: "veggie-shepherds-pie"
+ingredients: [
+  # The filling
+  name: "Onions"
+  quantity: "1"
+  prep: "Diced"
+,
+  name: "Carrots"
+  quantity: "4"
+  prep: "Diced"
+,
+  name: "Celery"
+  quantity: "1 head"
+  prep: "Chopped"
+  notes: "Optional"
+,
+  name: "Garlic"
+  quantity: "4 Cloves"
+  prep: "Finely chopped"
+,
+  name: "Chestnut mushrooms"
+  quantity: "200g"
+  prep: "sliced"
+,
+  name: "Green Lentils"
+  quantity: "500g"
+  notes: "Dried"
+,
+  name: "Butter"
+,
+  name: "Bay Leaf"
+  quantity: "2"
+  notes: "Optional"
+,
+  name: "Thyme"
+  quantity: "1 tbsp"
+,
+  name: "Red wine"
+  quantity: "100ml"
+  notes: "Optional"
+,
+  name: "Stock cube"
+  quantity: "1"
+,
+  name: "Tomato Purée"
+  quantity: "3 tbsp"
+,
+  # The topping
+  name: "King Edwards Potatoes"
+  quantity: "2kg"
+  notes: "Other floury potatoes will do"
+,
+  name: "Butter"
+  quantity: "85g"
+,
+  name: "Milk"
+  quantity: "100ml"
+,
+  name: "Cheddar"
+  quantity: "50g"
+  prep: "Grated"
+]
+method: [
+  "To make the sauce, heat the butter in a pan, then gently fry the onions, carrots, celery and garlic for 15 mins until soft and golden."
+  "Turn up the heat, add the mushrooms, then cook for 4 mins more."
+  "Add the herbs, lentils, wine and stock. It’s important that you do not season with salt at this stage."
+  "Simmer for 40-50 mins until the lentils are very soft."
+  "Take off the heat and stir in the tomato purée. Season to taste."
+  "While the lentils are cooking, tip the potatoes into a pan of water, then boil for about 15 mins until tender."
+  "Drain the potatoes well, then mash with the butter and milk."
+  "Pour the lentil mixture into a casserole dish and top with the mash potatoes."
+  "Use a fork to rake the surface of the mash potatoes. This will help golden the dish."
+  "Scatter with grated cheddar then bake in a 190C/fan 170C oven for 30 minutes, until golden."
+]

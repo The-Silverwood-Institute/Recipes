@@ -1,0 +1,35 @@
+name: "Russian Mushroom Julienne"
+url: "russian-mushroom-julienne"
+source: "https://livelaughrowe.com/russian-dish-mushroom-julienne/"
+ingredients: [
+  name: "Mushrooms"
+  quantity: "250g"
+  prep: "thinly sliced"
+,
+  name: "Onion"
+  quantiy: "1"
+  prep: "thinly sliced"
+,
+  name: "White wine"
+,
+  name: "Sour cream"
+  quantity: "150ml"
+,
+  name: "Double cream"
+  quantity: "120ml"
+,
+  name: "Mozzarella cheese"
+  quantity: "240g"
+  prep: "roughly chopped"
+,
+  name: "Butter"
+]
+method: [
+  "Preheat the oven to 190°C."
+  "In a medium pan, melt the butter then saute the mushrooms and onions on a medium heat, until they've given off liquid."
+  "Transfer the mixture to a medium casserole dish."
+  "Using the same pan, melt a knob of butter and add a slosh of white wine."
+  "Simmer on a medium heat for a couple of minutes, then stir in the double cream and sour cream."
+  "Bring it to boil and pour over the mushrooms. Stir the mixture."
+  "Sprinkle generously with cheese and bake for about 10 minutes (until the cheese is melted and starts to golden)."
+]
