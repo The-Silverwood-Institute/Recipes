@@ -1,0 +1,40 @@
+name: "Mushroom Risotto"
+url: "mushroom-risotto"
+ingredients: [
+    name: "Chestnut mushrooms"
+    quantity: "250g"
+    prep: "sliced"
+,
+    name: "Dried mushrooms"
+    quantity: "handful"
+    notes: "Porcini, shiitake, wild, etc"
+,
+    name: "Arborio rice"
+    quantity: "1 cup"
+,
+    name: "White wine"
+    quantity: "A decent slosh"
+,
+    name: "Black pepper"
+,
+    name: "Stock cube"
+    quantity: "1"
+,
+    name: "Water"
+    quantity: "700ml"
+    prep: "boiling"
+    notes: "Might need to add more"
+,
+    name: "Stilton"
+    quantity: "100g"
+,
+    name: "Butter"
+    quantity: "knob"
+]
+method: [
+    "Dissolve the stock cube in the boiling water and add the dried mushrooms, wine and black pepper."
+    "Melt the butter in a wide pan and cook the mushrooms over a medium heat. Set aside."
+    "Meanwhile add the arborio rice to a second pan and gradually stir in the stock, mixing often and not adding more until the previous lot of water has been absorbed."
+    "When the rice is tender, add it to the mushroom pan and mix thoroughly."
+    "Mix in the stilton and allow it to melt through the risotto."
+]
